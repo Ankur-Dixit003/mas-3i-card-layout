@@ -1,0 +1,12 @@
+{
+  "name": "mas-3i-card-layout",
+  "version": "0.0.1-beta",
+  "peerDependencies": {
+    "@angular/common": "^17.3.4",
+    "@angular/core": "^17.3.4"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
