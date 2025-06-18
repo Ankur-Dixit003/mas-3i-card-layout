@@ -1,0 +1,25 @@
+{
+  "name": "mas-3i-card-layout",
+  "version": "0.0.1-beta",
+  "description": "A layout component for MAS 3i",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ankur-Dixit003/mas-3i-card-layout.git"
+  },
+  "keywords": [
+    "angular",
+    "layout",
+    "mas-3i"
+  ],
+  "author": "Ankur Dixit",
+  "license": "MIT",
+  "peerDependencies": {
+    "@angular/common": "^17.3.4",
+    "@angular/core": "^17.3.4"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
